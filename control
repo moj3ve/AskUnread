@@ -1,0 +1,10 @@
+Package: com.sss136.askunread
+Name: AskUnread?
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Depiction: https://SsS136.github.io/descriptions/askunread/index.html
+Maintainer: shibuya
+Author: shibuya
+Section: Tweaks

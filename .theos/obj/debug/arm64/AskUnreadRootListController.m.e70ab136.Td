@@ -1,0 +1,47 @@
+/var/mobile/askunread/.theos/obj/debug/arm64/AskUnreadRootListController.m.e70ab136.o: \
+  AskUnreadRootListController.m /opt/theos/Prefix.pch \
+  /opt/theos/include/_Prefix/BackwardsCompat.h \
+  /opt/theos/include/_Prefix/IOSMacros.h /opt/theos/include/HBLog.h \
+  /opt/theos/include/CoreFoundation/CFLogUtilities.h \
+  AskUnreadRootListController.h \
+  /opt/theos/include/Preferences/PSListController.h \
+  /opt/theos/include/Preferences/PSViewController.h \
+  /opt/theos/include/Preferences/PSSpecifier.h \
+  /opt/theos/include/Preferences/PSTableCell.h \
+  /opt/theos/vendor/lib/CepheiPrefs.framework/Headers/HBRootListController.h \
+  /opt/theos/vendor/lib/CepheiPrefs.framework/Headers/HBListController.h \
+  /opt/theos/vendor/lib/CepheiPrefs.framework/Headers/PSListController+HBTintAdditions.h \
+  /opt/theos/vendor/lib/CepheiPrefs.framework/Headers/HBAppearanceSettings.h \
+  /opt/theos/vendor/lib/Cephei.framework/Headers/HBPreferences.h BC.h
+
+/opt/theos/Prefix.pch:
+
+/opt/theos/include/_Prefix/BackwardsCompat.h:
+
+/opt/theos/include/_Prefix/IOSMacros.h:
+
+/opt/theos/include/HBLog.h:
+
+/opt/theos/include/CoreFoundation/CFLogUtilities.h:
+
+AskUnreadRootListController.h:
+
+/opt/theos/include/Preferences/PSListController.h:
+
+/opt/theos/include/Preferences/PSViewController.h:
+
+/opt/theos/include/Preferences/PSSpecifier.h:
+
+/opt/theos/include/Preferences/PSTableCell.h:
+
+/opt/theos/vendor/lib/CepheiPrefs.framework/Headers/HBRootListController.h:
+
+/opt/theos/vendor/lib/CepheiPrefs.framework/Headers/HBListController.h:
+
+/opt/theos/vendor/lib/CepheiPrefs.framework/Headers/PSListController+HBTintAdditions.h:
+
+/opt/theos/vendor/lib/CepheiPrefs.framework/Headers/HBAppearanceSettings.h:
+
+/opt/theos/vendor/lib/Cephei.framework/Headers/HBPreferences.h:
+
+BC.h:
