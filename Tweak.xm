@@ -266,7 +266,7 @@ return %orig;
         [alertController addAction:[UIAlertAction actionWithTitle:@"OK"
             style:UIAlertActionStyleDefault
             handler:^(UIAlertAction *action) {
-                    I
+                    
             }]];
 
         [view presentViewController:alertController animated:YES completion:nil];
@@ -429,7 +429,7 @@ return %orig;
         [alertController addAction:[UIAlertAction actionWithTitle:@"OK"
             style:UIAlertActionStyleDefault
             handler:^(UIAlertAction *action) {
-                            I
+                            
             }]];
 
         [view presentViewController:alertController animated:YES completion:nil];
